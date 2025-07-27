@@ -5,6 +5,8 @@
 
 [Notion(ポートフォリオ)](https://basalt-rest-65c.notion.site/23d34fbceca18018b9c1fb115e9e3681)
 
+[確認はこちら](https://ryoran-ran.github.io/JS-MEIGEN/)
+
 ---
 
 ## 🎯 目的

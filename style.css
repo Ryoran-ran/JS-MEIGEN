@@ -1,0 +1,42 @@
+body {
+  background-color: #f8f9fa;
+  text-align: center;
+  padding: 50px;
+  font-family: "Helvetica Neue", sans-serif;
+}
+#TODAY_DATE {
+  font-size: 1.2rem;
+  color: #6c757d;
+  margin-bottom: 20px;
+}
+#MEIGEN_BOX {
+  display: inline-block;
+  text-align: left;
+  max-width: 80vw;
+}
+#MEIGEN {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 20px auto;
+  color: #343a40;
+  display: inline-block;
+  margin-bottom: 0;
+
+  
+}
+#NAME {
+  font-size: 1.2rem;
+  color: #495057;
+  margin-top: 10px;
+  text-align: right;
+}
+
+
+@keyframes rotate360 {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.rotate {
+  animation: rotate360 10s linear infinite;
+}
